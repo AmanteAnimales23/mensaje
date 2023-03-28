@@ -1,2 +1,2 @@
 # mensaje
-$${\color{white}White}$$ Hola
+$${\color{white}Hola}$$ 
