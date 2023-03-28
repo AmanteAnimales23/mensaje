@@ -1,2 +1,2 @@
 # mensaje
-#000000 Hola
+$${\color{white}White}$$ Hola
